@@ -2,14 +2,6 @@
 
 A dark red, editorial-style developer portfolio template. Pure HTML, CSS and JavaScript, no build step, no dependencies.
 
-> Replace the screenshot below with your own: take a screenshot of the site, save it as `assets/preview.png`.
-
-
-
-![Preview](assets/preview.png)
-
-
-
 ## Features
 
 - Bold hero with a large "PORTFOLIO" headline behind your portrait
